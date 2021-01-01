@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ten-website/static/css/main.6180929d.chunk.css",
+    "main.js": "/ten-website/static/js/main.d16f6d98.chunk.js",
+    "main.js.map": "/ten-website/static/js/main.d16f6d98.chunk.js.map",
+    "runtime-main.js": "/ten-website/static/js/runtime-main.cc3eb9c0.js",
+    "runtime-main.js.map": "/ten-website/static/js/runtime-main.cc3eb9c0.js.map",
+    "static/js/2.6e323a49.chunk.js": "/ten-website/static/js/2.6e323a49.chunk.js",
+    "static/js/2.6e323a49.chunk.js.map": "/ten-website/static/js/2.6e323a49.chunk.js.map",
+    "index.html": "/ten-website/index.html",
+    "static/css/main.6180929d.chunk.css.map": "/ten-website/static/css/main.6180929d.chunk.css.map",
+    "static/js/2.6e323a49.chunk.js.LICENSE.txt": "/ten-website/static/js/2.6e323a49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc3eb9c0.js",
+    "static/js/2.6e323a49.chunk.js",
+    "static/css/main.6180929d.chunk.css",
+    "static/js/main.d16f6d98.chunk.js"
+  ]
+}
